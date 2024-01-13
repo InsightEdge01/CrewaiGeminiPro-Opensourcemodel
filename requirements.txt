@@ -1,0 +1,4 @@
+crewai
+duckduckgo-search
+huggingface_hub
+langchain_google_genai
